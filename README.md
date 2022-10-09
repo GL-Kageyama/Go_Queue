@@ -6,6 +6,8 @@
 The library used is "go-datastructures".  
 https://github.com/Workiva/go-datastructures  
 
+The library can store values of different types in the same queue.  
+
 Please install as needed.  
 $ go get -u github.com/Workiva/go-datastructures/...  
 
