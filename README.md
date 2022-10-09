@@ -72,7 +72,7 @@ func main() {
 	if queueObj.Empty() {
 		fmt.Println("Queue Object is Empty.")
 	} else {
-		fmt.Println("Queue Object is not Empty.") // Queueb Object is not Empty.
+		fmt.Println("Queue Object is not Empty.") // Queue Object is not Empty.
 	}
 	// Current queueObj :  ["DDD", 444, "EEE", 555]
 
