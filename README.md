@@ -1,6 +1,8 @@
 # Go Queue
 
 ## Queue
+A queue is a data structure that stores incoming data in order and retrieves them in order, starting with the data stored first.  
+Also called FIFO (First-In First-Out) data structure.  
 
 ## Library
 The library used is "go-datastructures".  
