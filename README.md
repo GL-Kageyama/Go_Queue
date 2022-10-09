@@ -3,6 +3,11 @@
 ## Queue
 
 ## Library
+The library used is "go-datastructures".  
+https://github.com/Workiva/go-datastructures  
+
+Please install as needed.  
+$ go get -u github.com/Workiva/go-datastructures/...  
 
 ## Code
 ```Go
